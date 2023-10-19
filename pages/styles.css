@@ -1,0 +1,13 @@
+.contenedor-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Ajusta la altura del contenedor según tus necesidades */
+  }
+.imagen-centrada {
+    max-width: 100%;
+    border-radius: 100%;
+     /* Ajusta el tamaño máximo de la imagen según tus necesidades */
+  }
+
