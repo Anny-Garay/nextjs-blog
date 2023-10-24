@@ -3,9 +3,11 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "develop": "run develop"
   },
   "dependencies": {
+    "axios": "^1.5.1",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
